@@ -1,0 +1,200 @@
+0
+Luke
+eval(26)
+{ "weapon": "Holy Cross", "type": "magic", "ability": "randomInt(1, 12) + 10", "deathNote": "was smited by a holy might!" }
+{ "personality": "Brain Dead", "bonus": "if (randomInt(0, 10) < 5){temp -= 10}", "applied": "offense" }
+15
+0
+
+,1
+Quinn
+eval(20)
+{ "weapon": "Laser Sword", "type": "magic", "ability": "randomInt(11, 13)", "deathNote": "was cut in half by pure plasma!" }
+{ "personality": "Ailen", "bonus": "if (players[defender].hp > 20){temp -= 3}", "applied": "defence" }
+0
+0
+
+,2
+Christopher
+eval(29)
+{ "weapon": "Frying Pan", "type": "magic", "ability": "randomInt(10, 12)", "deathNote": "was fried by a frying pan!" }
+{ "personality": "Clown", "bonus": "if (players[attacker].hp <= 10){temp += 8}", "applied": "" }
+37
+0
+
+,3
+Cooper
+eval(24)
+{ "weapon": "Shield", "type": "physical", "ability": "randomInt(7, 10) - 5", "deathNote": "neck broke by getting bashed by a shield!" }
+{ "personality": "Saiyan", "bonus": "if (randomInt(1, 10) > 5){temp += 5}", "applied": "offense" }
+56
+0
+
+,4
+Landon
+eval(20)
+{ "weapon": "Pistol", "type": "ranged", "ability": "randomInt(7, 20)", "deathNote": "was shot by a pistol!" }
+{ "personality": "Clown", "bonus": "if (players[attacker].hp <= 10){temp += 8}", "applied": "" }
+21
+0
+
+,5
+Valentina
+eval(29)
+{ "weapon": "Grenade", "type": "ranged", "ability": "10", "deathNote": "was blew up by a grenade!" }
+{ "personality": "Military", "bonus": "if (players[attacker].wep.weapon == 'ranged'){temp += 5}", "applied": "offense" }
+17
+0
+
+,6
+Evelyn
+eval(20)
+{ "weapon": "Blood Magic", "type": "magic", "ability": "randomInt(0, 22)", "deathNote": "was destroyed inside-out by inner blood turmoil!" }
+{ "personality": "Brawny", "bonus": "if (players[attacker].wep.type == 'physical'){temp += 5}", "applied": "offense" }
+19
+0
+
+,7
+Peyton
+eval(20)
+{ "weapon": "Railgun", "type": "ranged", "ability": "randomInt(1, 100) - 40", "deathNote": "was fried by a plasma beam!" }
+{ "personality": "Vampire", "bonus": "if (players[attacker].wep.type == 'magic'){temp += 5}", "applied": "offense" }
+26
+0
+
+,8
+Theodore
+eval(22)
+{ "weapon": "Sword", "type": "physical", "ability": "randomInt(4, 12)", "deathNote": "was sliced in half by a sword!" }
+{ "personality": "Military", "bonus": "if (players[attacker].wep.weapon == 'ranged'){temp += 5}", "applied": "offense" }
+23
+0
+
+,9
+Genesis
+eval(27)
+{ "weapon": "Rocket Launcher", "type": "physical", "ability": "randomInt(20, 50) - 30", "deathNote": "torn apart by a missle!" }
+{ "personality": "Military", "bonus": "if (players[attacker].wep.weapon == 'ranged'){temp += 5}", "applied": "offense" }
+45
+0
+
+,10
+Allison
+eval(20)
+{ "weapon": "Sword", "type": "physical", "ability": "randomInt(4, 12)", "deathNote": "was sliced in half by a sword!" }
+{ "personality": "Paladin", "bonus": "if (players[defender].hp < 10){temp -= 5}", "applied": "defence" }
+60
+0
+
+,11
+Eli
+eval(27)
+{ "weapon": "Holy Cross", "type": "magic", "ability": "randomInt(1, 12) + 10", "deathNote": "was smited by a holy might!" }
+{ "personality": "Clown", "bonus": "if (players[attacker].hp <= 10){temp += 8}", "applied": "" }
+39
+0
+
+,12
+Genesis
+eval(22)
+{ "weapon": "Railgun", "type": "ranged", "ability": "randomInt(1, 100) - 40", "deathNote": "was fried by a plasma beam!" }
+{ "personality": "Dumb", "bonus": "if (players[attacker].hp >= '10'){temp += 5}", "applied": "offense" }
+5
+0
+
+,13
+Arya
+eval(28)
+{ "weapon": "Knife", "type": "physical", "ability": "randomInt(6, 9)", "deathNote": "was stabbed in the throat!" }
+{ "personality": "Brain Dead", "bonus": "if (randomInt(0, 10) < 5){temp -= 10}", "applied": "offense" }
+32
+0
+
+,14
+Asher
+eval(29)
+{ "weapon": "Laser Sword", "type": "magic", "ability": "randomInt(11, 13)", "deathNote": "was cut in half by pure plasma!" }
+{ "personality": "Dumb", "bonus": "if (players[attacker].hp >= '10'){temp += 5}", "applied": "offense" }
+62
+0
+
+,15
+Amelia
+eval(26)
+{ "weapon": "Shotgun", "type": "ranged", "ability": "randomInt(4, 12)", "deathNote": "was blasted to rubble!" }
+{ "personality": "Ailen", "bonus": "if (players[defender].hp > 20){temp -= 3}", "applied": "defence" }
+16
+0
+
+,16
+Axel
+eval(29)
+{ "weapon": "Pistol", "type": "ranged", "ability": "randomInt(7, 20)", "deathNote": "was shot by a pistol!" }
+{ "personality": "Military", "bonus": "if (players[attacker].wep.weapon == 'ranged'){temp += 5}", "applied": "offense" }
+63
+0
+
+,17
+Valentina
+eval(27)
+{ "weapon": "Grenade", "type": "ranged", "ability": "10", "deathNote": "was blew up by a grenade!" }
+{ "personality": "Ailen", "bonus": "if (players[defender].hp > 20){temp -= 3}", "applied": "defence" }
+53
+0
+
+,18
+Ian
+eval(24)
+{ "weapon": "Frying Pan", "type": "magic", "ability": "randomInt(10, 12)", "deathNote": "was fried by a frying pan!" }
+{ "personality": "Saiyan", "bonus": "if (randomInt(1, 10) > 5){temp += 5}", "applied": "offense" }
+41
+0
+
+,19
+Savannah
+eval(28)
+{ "weapon": "Laser Sword", "type": "magic", "ability": "randomInt(11, 13)", "deathNote": "was cut in half by pure plasma!" }
+{ "personality": "Ailen", "bonus": "if (players[defender].hp > 20){temp -= 3}", "applied": "defence" }
+27
+0
+
+,20
+Aria
+eval(25)
+{ "weapon": "Frying Pan", "type": "magic", "ability": "randomInt(10, 12)", "deathNote": "was fried by a frying pan!" }
+{ "personality": "Smart", "bonus": "if (players[defender].type.personality == 'Dumb'){temp += 15}", "applied": "offense" }
+24
+0
+
+,21
+Emily
+eval(25)
+{ "weapon": "Knife", "type": "physical", "ability": "randomInt(6, 9)", "deathNote": "was stabbed in the throat!" }
+{ "personality": "Smart", "bonus": "if (players[defender].type.personality == 'Dumb'){temp += 15}", "applied": "offense" }
+55
+0
+
+,22
+Cameron
+eval(22)
+{ "weapon": "Molotov", "type": "ranged", "ability": "randomInt(4, 7) + randomInt(4, 7)", "deathNote": "screamed as fire from a broken molotov seared thy skin." }
+{ "personality": "Clown", "bonus": "if (players[attacker].hp <= 10){temp += 8}", "applied": "" }
+48
+0
+
+,23
+Santiago
+eval(27)
+{ "weapon": "Shovel", "type": "physical", "ability": "randomInt(3, 10)", "deathNote": "got dugged by a shovel!" }
+{ "personality": "Brawny", "bonus": "if (players[attacker].wep.type == 'physical'){temp += 5}", "applied": "offense" }
+31
+0
+
+,24
+Zoey
+eval(29)
+{ "weapon": "Railgun", "type": "ranged", "ability": "randomInt(1, 100) - 40", "deathNote": "was fried by a plasma beam!" }
+{ "personality": "Vampire", "bonus": "if (players[attacker].wep.type == 'magic'){temp += 5}", "applied": "offense" }
+2
+0
+

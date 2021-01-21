@@ -1,0 +1,31 @@
+TO DO LIST (MORE LIKE IDEA LIST):
+-ADD MORE POTRAITS OR MAKE IT A SPRITE SHEET
+-Passive Abilities
+-More than one ability???
+-Contestants can drop weapons for better ones
+-Contestants can loose / gain weapons randomly
+-Hunger system if wanted
+-Actual AI for the Contestants
+-Player can actually control a character
+-Betting game and factions
+-Characters have rivaries
+-Limited use weapons
+
+#IMPORTANT TO DO#
+- ACTUALLY CLEAN UP THE CODE!!!
+-Make it an actual 2d array
+-Player can add their custom characters, cause events to happen... etc.
+-Passive events
+-Map can change things up
+
+#What I'm doing right now#
+-Spawn monsters!
+-More weapons / types / balance it out
+
+#DONE#
+-Javascript code displayed by HTML
+-Basic endgame screen
+-Display end game stats (position, kills, survived till, equitment, etc)
+
+#DUE DATE#
+Finished this by end of the week

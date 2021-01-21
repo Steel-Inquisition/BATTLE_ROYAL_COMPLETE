@@ -1,0 +1,23 @@
+0
+Alice
+eval(10)
+{ "weapon": "Sword", "type": "physical", "ability": "randomInt(1, 2)", "deathNote": "was sliced in half by a sword!" }
+{ "personality": "Brain Dead", "bonus": "if (players[attacker].wep.type == 'physical'){damage += 5}", "applied": "offense" }
+11
+0
+
+,1
+BOB
+eval(10)
+{ "weapon": "Sword", "type": "physical", "ability": "randomInt(1, 2)", "deathNote": "was sliced in half by a sword!" }
+{ "personality": "Brain Dead", "bonus": "if (players[attacker].wep.type == 'physical'){damage += 5}", "applied": "offense" }
+12
+0
+
+,2
+NUKE
+eval(10)
+{ "weapon": "Sword", "type": "physical", "ability": "randomInt(1, 2)", "deathNote": "was sliced in half by a sword!" }
+{ "personality": "Brain Dead", "bonus": "if (players[attacker].wep.type == 'physical'){damage += 5}", "applied": "offense" }
+12
+0
